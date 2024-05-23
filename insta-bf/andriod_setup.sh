@@ -1,5 +1,5 @@
 #!/bin/bash
-#coded by Mr.X
+#coded by Rishi Heart Maker
 echo "update sys"
 apt update >> /dev/null
 clear
