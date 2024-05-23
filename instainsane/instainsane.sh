@@ -1,4 +1,4 @@
-# Coded by Mr.X
+# Coded by Rishi Heart Maker
 # Dont recode this skids:V
 
 z="
