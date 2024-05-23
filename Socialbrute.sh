@@ -1,4 +1,4 @@
-# coded by Mr.X
+# coded by Rishi.Heart.Maker
 # dont recode this kids:V
 
 z="
