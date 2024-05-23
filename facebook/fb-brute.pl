@@ -41,8 +41,8 @@ if(!defined($ARGV[0] && $ARGV[1])) {
 
 system('clear');
 print "\n+++ Ox-Bruter Facebook password Bruter\n";
-print "+++ Coded by Mr.X\n";
-print "+++ www.fb.com/whomrx\n\n";
+print "+++ Coded by Rishi Heart Maker";
+print "+++ www.fb.com/rishi_legend\n\n";
 print "+++ Usage: perl $0 login wordlist\n\n";
 exit; }
 
