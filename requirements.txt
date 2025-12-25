@@ -1,0 +1,7 @@
+requests
+pysocks
+beautifulsoup4
+colorama
+tqdm
+stem
+certifi
