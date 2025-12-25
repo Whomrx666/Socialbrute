@@ -2,7 +2,7 @@
 ![Socialbrute preview](Socialbrute.jpg)
 
 ## introduction
-Socialbrute is a Bruteforce Attack Framework [ Facebook , Gmail , Instagram ,Twitter ] , Coded By Mr.X
+Socialbrute is a Bruteforce Attack Framework [ Facebook , Gmail , Instagram ,Twitter ] , Coded By Mr.X {Updated 2025}
 
 ## Instalations
 ```
